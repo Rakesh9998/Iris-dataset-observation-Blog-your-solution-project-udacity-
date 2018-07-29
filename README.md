@@ -16,8 +16,9 @@ Very straight forward 150 row and 4/5 column dataset containing measurements of 
 
 # Files in the repository
 
-Iris_project.ipynb - It contains the code of visulization and machine learning
-iris.csv - It is the dataset that I have used in my project
+####Iris_project.ipynb - It contains the code of visulization and machine learning
+
+####iris.csv - It is the dataset that I have used in my project
 
 # Summary of the results
 
