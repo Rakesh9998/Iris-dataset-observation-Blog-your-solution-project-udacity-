@@ -27,3 +27,5 @@ if(petal_length<2), then it is setosta if(petal_length<5 and petal_width<1.75), 
 We can separate flowers from others by comparing petal_length and petal_width features.
 
 We can choose KNN as machine learning model as accuracy is about 98%
+
+My blog link is : https://medium.com/@rakeshkumartiwary526/iris-dataset-observation-c57a5dffd16d
